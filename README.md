@@ -1,3 +1,14 @@
+<img width="1919" height="919" alt="HomeScreen" src="https://github.com/user-attachments/assets/9a69831e-fe1b-46f9-956d-b9cd1cf2ed25" />
+<img width="1919" height="916" alt="MicrosoftLists" src="https://github.com/user-attachments/assets/4c6bb184-46ba-4f80-969b-358792995b84" />
+<img width="1919" height="922" alt="BasicFormInfoScreen" src="https://github.com/user-attachments/assets/76222d95-66e0-4ad4-afb2-394e6ea4e4bd" />
+<img width="1919" height="919" alt="DetailsFormScreen" src="https://github.com/user-attachments/assets/acd57bbb-b556-472f-a73c-6001145157b5" />
+<img width="1919" height="915" alt="AdditionalInfoViewableScreen" src="https://github.com/user-attachments/assets/783ff5e5-b143-48b6-bf1e-4b893124a19f" />
+<img width="1919" height="919" alt="ViewableForm" src="https://github.com/user-attachments/assets/03b72377-17f5-4baa-8067-5cebd94f9eb4" />
+<img width="1919" height="918" alt="EditableForm" src="https://github.com/user-attachments/assets/26fe63b3-4643-497d-95a0-8a506991b63f" />
+<img width="1919" height="920" alt="FormDeletion" src="https://github.com/user-attachments/assets/3dd1ee64-bde0-47e3-9897-e98e7f5cac58" />
+
+
+
 # Multi-Screen Form Control – Power Apps
 
 ## 📌 Project Overview
